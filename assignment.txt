@@ -1,0 +1,16 @@
+Ratings.dat
+
+1. Top 5 movies with higest no.of rating
+2. Top 5 movies which got higest 5 rating
+3. Find out 10 User ids which are more active to provide rating
+
+Movies.dat
+
+1. Find out movies names which got the higest 5 rating.
+2. Find out top 5 comedy/romance/childern/fantacy/action movies
+
+USers.dat
+
+1. Top 5 movies by Gender
+2. Which Age group are more active and most interested to provide rating
+3. Top 3 occupations to provide ratings
